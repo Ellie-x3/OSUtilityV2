@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSUtility2", "OSUtility2\OSUtility2.csproj", "{09B37097-B432-49A6-83EB-C49F071F10ED}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{C2143986-6190-46E1-AD3E-9734150168F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09B37097-B432-49A6-83EB-C49F071F10ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09B37097-B432-49A6-83EB-C49F071F10ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09B37097-B432-49A6-83EB-C49F071F10ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09B37097-B432-49A6-83EB-C49F071F10ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2143986-6190-46E1-AD3E-9734150168F7}.Debug|Any CPU.ActiveCfg = Debug
+		{C2143986-6190-46E1-AD3E-9734150168F7}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C7E7F3D8-B581-498D-96DA-013186574F32}
+	EndGlobalSection
+EndGlobal

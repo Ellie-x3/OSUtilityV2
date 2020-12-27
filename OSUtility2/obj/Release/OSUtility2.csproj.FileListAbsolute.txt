@@ -1,0 +1,15 @@
+C:\Users\troym\source\repos\OSUtility2\OSUtility2\bin\Release\OSUtility2.exe.config
+C:\Users\troym\source\repos\OSUtility2\OSUtility2\bin\Release\OSUtility2.exe.manifest
+C:\Users\troym\source\repos\OSUtility2\OSUtility2\bin\Release\OSUtility2.application
+C:\Users\troym\source\repos\OSUtility2\OSUtility2\bin\Release\OSUtility2.exe
+C:\Users\troym\source\repos\OSUtility2\OSUtility2\bin\Release\OSUtility2.pdb
+C:\Users\troym\source\repos\OSUtility2\OSUtility2\obj\Release\OSUtility2.csprojAssemblyReference.cache
+C:\Users\troym\source\repos\OSUtility2\OSUtility2\obj\Release\OSUtility2.Form1.resources
+C:\Users\troym\source\repos\OSUtility2\OSUtility2\obj\Release\OSUtility2.Properties.Resources.resources
+C:\Users\troym\source\repos\OSUtility2\OSUtility2\obj\Release\OSUtility2.csproj.GenerateResource.cache
+C:\Users\troym\source\repos\OSUtility2\OSUtility2\obj\Release\OSUtility2.csproj.CoreCompileInputs.cache
+C:\Users\troym\source\repos\OSUtility2\OSUtility2\obj\Release\OSUtility2.TrustInfo.xml
+C:\Users\troym\source\repos\OSUtility2\OSUtility2\obj\Release\OSUtility2.exe.manifest
+C:\Users\troym\source\repos\OSUtility2\OSUtility2\obj\Release\OSUtility2.application
+C:\Users\troym\source\repos\OSUtility2\OSUtility2\obj\Release\OSUtility2.exe
+C:\Users\troym\source\repos\OSUtility2\OSUtility2\obj\Release\OSUtility2.pdb
